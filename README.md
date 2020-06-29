@@ -1,6 +1,6 @@
 ![cover image](https://res.cloudinary.com/dmq9pzw0o/image/upload/v1593463604/dynamic-themes-in-ant-design-how-to-change-between-light-and-dark-theme/Group_1_1_cug4tn.png)
 
-# Welcome to Antd Dark Mode Example 👋
+# Welcome to AntD Dark Mode Example 👋
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
